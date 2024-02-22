@@ -4,7 +4,7 @@
 
 ### 🔭 I’m currently working on ... looking for work!😱 🆘
 
-My passion for programming 💻 is growing, like a fire that slowly turns from flame to fire, I love working in a team and solving problems.🤓
+My passion for programming 💻 continues to intensify, like a spark igniting into a blazing fire. Collaborating within a team and tackling challenges is where I thrive. 🤓
 
 ### Languages and Tools:
 
