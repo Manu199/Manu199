@@ -16,10 +16,6 @@ My passion for programming 💻 is growing, like a fire that slowly turns from f
 
 ## <b>My GitHub Stats</b>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Manu199&theme=tokyonight&card_width=489" alt="GitHub Streak" /></a>
-
-## My Github Readme Streak Stats
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Manu199&theme=tokyonight&card_width=489)](https://git.io/streak-stats)
 
 ### Socials
